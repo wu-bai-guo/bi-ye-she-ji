@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T03:16:18.838Z" agent="5.0 (X11)" version="14.4.9" etag="9zu4qUosdkLOuG3Penwu" type="github"><diagram id="LB5ANaDwlQLxn0U3q3Hp">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-20T03:52:44.989Z" agent="5.0 (X11)" etag="wwbnzjk6rNq76Ltzvxjo" version="14.4.9" type="github">
+  <diagram id="LB5ANaDwlQLxn0U3q3Hp" name="Page-1">
+    <mxGraphModel dx="1350" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#114B5F" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I5-bxr35-1649aSpB0vk-3" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" edge="1" parent="1" source="I5-bxr35-1649aSpB0vk-1" target="I5-bxr35-1649aSpB0vk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5-bxr35-1649aSpB0vk-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Begin&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I5-bxr35-1649aSpB0vk-5" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" edge="1" parent="1" source="I5-bxr35-1649aSpB0vk-2" target="I5-bxr35-1649aSpB0vk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5-bxr35-1649aSpB0vk-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Pay a fee &lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="130" width="164" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I5-bxr35-1649aSpB0vk-8" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" edge="1" parent="1" source="I5-bxr35-1649aSpB0vk-4" target="I5-bxr35-1649aSpB0vk-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5-bxr35-1649aSpB0vk-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;falling rail&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I5-bxr35-1649aSpB0vk-6" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="140" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I5-bxr35-1649aSpB0vk-12" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" edge="1" parent="1" source="I5-bxr35-1649aSpB0vk-7" target="I5-bxr35-1649aSpB0vk-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5-bxr35-1649aSpB0vk-7" value="&lt;font style=&quot;font-size: 14px&quot;&gt;back sensor = 0&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="250" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I5-bxr35-1649aSpB0vk-17" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" edge="1" parent="1" source="I5-bxr35-1649aSpB0vk-9" target="I5-bxr35-1649aSpB0vk-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5-bxr35-1649aSpB0vk-9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;front sensor = 1&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="250" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I5-bxr35-1649aSpB0vk-11" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" edge="1" parent="1" source="I5-bxr35-1649aSpB0vk-7" target="I5-bxr35-1649aSpB0vk-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5-bxr35-1649aSpB0vk-19" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" edge="1" parent="1" source="I5-bxr35-1649aSpB0vk-14" target="I5-bxr35-1649aSpB0vk-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5-bxr35-1649aSpB0vk-14" value="&lt;font style=&quot;font-size: 14px&quot;&gt;rising rail &lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I5-bxr35-1649aSpB0vk-16" value="&lt;font style=&quot;font-size: 14px&quot;&gt;END&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I5-bxr35-1649aSpB0vk-20" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Flow chart of vehicles leaving parking spaces&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="480" width="500" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
