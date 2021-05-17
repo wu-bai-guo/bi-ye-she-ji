@@ -1,1 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2021-05-17T06:43:19.918Z" agent="5.0 (X11)" etag="ks88qVzvEoAGg0R-ne5G" version="14.6.13" type="github"><diagram id="AhWVdmM_yHLK6CxtU968" name="Page-1">7VpZk9soEP41PGZLt9CjZMs5drdqaidbSR6JRWztysKFcGzl1wcEsi480UxGlnM8GZrm0NcfDd0Y2Ivd6SVF++3fJMEZsIzkBOwlsCzTdg3+IySllEDDkYINTROl1Aju0y9YCVW/zSFNcNFRZIRkLN13hWuS53jNOjJEKTl21T6RrDvrHm3wQHC/RtlQ+i5N2FZ9heU38lc43WzrmU0vkC07VCurLym2KCHHlsiOgb2ghDBZ2p0WOBPg1bjIfqsLreeFUZyzMR2Ob/58g8qdHbG1CRmxX5eQvqhhLlhZfzFOOACqSijbkg3JURY30oiSQ55gMazBa43OX4TsudDkwv8wY6WyJjowwkVbtstUK18xLd+L/n8YnA9K8KESWAIZKVie1BSyVrZrd5imO8wwVUL5GWLtF+FRooIc6Bo/hImiGaIbzB7Qs85G5OzHhK+GlrwfxRli6efuOpCi4eas11iKF5SxHmM4Oe5nlB3UTCD2QOQCGIEYgsgHwRLEDogWIDREE3RAsAKxC4IAhHBg9a5Nj9uU4fs9qnA68p3dtZ+aG1OGTw/DPYRHdQgU8ZRbMGs/cWxtMiXatvaXY0yFpzmA5JobwexuAvcbW+AZ2W6NZLszJ9utIdv71pqesuczqeasOeSs5WlIa/lTsdbWeAG++Zcg9KpCDKAsrEAQic0PfRCFIPYBDEHkVX7BANAUOuGqUuY6vBzdAr5z+wRH62NDjq7bApV7Wkc4Xt4ULAS610eu50wty50XOFcLXOCCyBB4hZJyvBCDcOh3r46XrdnIV8XLuwX35noj3JtxVffma3g02G7Ch3Ee+cp1Rd4NuC7LnplRcIDcv+E/b2dAxoZ93zREJtAg402FTPAo36Q45Vc6XqXDC9XJKnScefx9n26zOzBzxAUN50koAnJeW2eoKNL1te/C37zjunrUW6i6GlRr2eirsJrhjqR8gY1RDdg1qt2zlrzKq17tQL83kGN12eGYvYEkDoOBKsufP/s7yKC5Nz2aDKeUvW/Mz2sfWi0NE0RlgqDIHkkYf07C2L1rjPNkwjg9dwKvTBjNffGphDFbdGnIoydMKw3ldnzO9aLvsUSDvzTRuOVR2VLbC4Xi8oKdOgCqr7J+JzXKC3LE52XxiFv8D3AGBrMyrUcQsx9a3BrT+guuD+1pmaaJi0YxreBfzSZ0ozefxPR+aTf6bPwbRperu5fDQIgHOKxLL5Slm1xwj1tYPN1EIgxK1ygLVcMuTRKZWsdF+gV9rIYSZFEbkY/rRsBdirEOjBQysW5W3Kbkf7wgGRFPQjnJ8fPEWk4/K6kJYHWksYzL/Pi+WEsXwfJAFIqcrigsAVxezkb+FEbxjRszSj3w/AmXfhpPl3DR5QbcyaDRP1WqjIsnyBrGItHCyRrYMyDm9d8i4TB97msQM6dj01Mj6PEHvPGUA37GV8rRj/KG3ta/j/jsXG3+cyLVm3/u2PFX</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-17T06:47:45.700Z" agent="5.0 (X11)" etag="iP6WLSyZFAjv5-BOknRE" version="14.6.13" type="github">
+  <diagram id="AhWVdmM_yHLK6CxtU968" name="Page-1">
+    <mxGraphModel dx="1350" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wJKJaym3Btc18to3Iy8r-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.222;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wJKJaym3Btc18to3Iy8r-1" target="wJKJaym3Btc18to3Iy8r-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wJKJaym3Btc18to3Iy8r-1" value="测距传感器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="150" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wJKJaym3Btc18to3Iy8r-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wJKJaym3Btc18to3Iy8r-2" target="wJKJaym3Btc18to3Iy8r-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wJKJaym3Btc18to3Iy8r-2" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="110" width="260" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="wJKJaym3Btc18to3Iy8r-3" value="车辆进出状态识别" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="150" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wJKJaym3Btc18to3Iy8r-4" value="步进电机" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="225" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wJKJaym3Btc18to3Iy8r-5" value="数码管" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="310" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wJKJaym3Btc18to3Iy8r-6" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="110" width="200" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="wJKJaym3Btc18to3Iy8r-7" value="电机控制" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="230" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wJKJaym3Btc18to3Iy8r-8" value="UART" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="220" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wJKJaym3Btc18to3Iy8r-9" value="数码管刷新显示" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="310" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wJKJaym3Btc18to3Iy8r-12" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="wJKJaym3Btc18to3Iy8r-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="208" y="330" as="sourcePoint" />
+            <mxPoint x="420" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wJKJaym3Btc18to3Iy8r-14" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="wJKJaym3Btc18to3Iy8r-3" target="wJKJaym3Btc18to3Iy8r-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wJKJaym3Btc18to3Iy8r-15" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wJKJaym3Btc18to3Iy8r-3" target="wJKJaym3Btc18to3Iy8r-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="425" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wJKJaym3Btc18to3Iy8r-16" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="wJKJaym3Btc18to3Iy8r-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="170" as="sourcePoint" />
+            <mxPoint x="440" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wJKJaym3Btc18to3Iy8r-17" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wJKJaym3Btc18to3Iy8r-2" target="wJKJaym3Btc18to3Iy8r-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wJKJaym3Btc18to3Iy8r-18" value="FPGA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="410" y="120" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wJKJaym3Btc18to3Iy8r-19" value="上位机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="700" y="120" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wJKJaym3Btc18to3Iy8r-20" value="UART" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="220" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wJKJaym3Btc18to3Iy8r-21" value="数据库" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="185" width="70" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wJKJaym3Btc18to3Iy8r-24" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wJKJaym3Btc18to3Iy8r-21" target="wJKJaym3Btc18to3Iy8r-20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hNRzAAJFqG2Eg004tOYV-1" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wJKJaym3Btc18to3Iy8r-8" target="wJKJaym3Btc18to3Iy8r-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="440" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
