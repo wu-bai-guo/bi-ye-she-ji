@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-17T15:02:22.936Z" agent="5.0 (X11)" etag="34us7b5mWZB77PdGDs_B" version="14.6.13" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-05-18T02:46:40.216Z" agent="5.0 (X11)" etag="zE9SQpYwvdmRt_UCz2iv" version="14.6.13" type="github" pages="4">
   <diagram id="AhWVdmM_yHLK6CxtU968" name="Page-1">
     <mxGraphModel dx="1350" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -431,6 +431,27 @@
         </mxCell>
         <mxCell id="muf5UqnXg7KM9Oul-0wY-42" value="上位机" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="xlOU0ptssQJx0X-jKJ3m-1">
           <mxGeometry x="90" y="470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="muf5UqnXg7KM9Oul-0wY-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="xlOU0ptssQJx0X-jKJ3m-1" source="muf5UqnXg7KM9Oul-0wY-43" target="muf5UqnXg7KM9Oul-0wY-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="muf5UqnXg7KM9Oul-0wY-43" value="UART" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xlOU0ptssQJx0X-jKJ3m-1">
+          <mxGeometry x="110" y="935" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="muf5UqnXg7KM9Oul-0wY-44" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="xlOU0ptssQJx0X-jKJ3m-1">
+          <mxGeometry x="275" y="820" width="20" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="muf5UqnXg7KM9Oul-0wY-46" value="&lt;div&gt;opendev(打开串口)&lt;/div&gt;&lt;div&gt;函数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xlOU0ptssQJx0X-jKJ3m-1">
+          <mxGeometry x="320" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="muf5UqnXg7KM9Oul-0wY-47" value="set_speed（波特率配置）函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xlOU0ptssQJx0X-jKJ3m-1">
+          <mxGeometry x="320" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="muf5UqnXg7KM9Oul-0wY-48" value="set_Parity（配置数据位、校验位、停止位）函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xlOU0ptssQJx0X-jKJ3m-1">
+          <mxGeometry x="320" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="muf5UqnXg7KM9Oul-0wY-49" value="analysis（打印读到的字节数据）函数" style="whiteSpace=wrap;html=1;" vertex="1" parent="xlOU0ptssQJx0X-jKJ3m-1">
+          <mxGeometry x="320" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
