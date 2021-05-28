@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T03:52:37.554Z" agent="5.0 (X11)" version="14.6.13" etag="YFQ7RUFIRTSKMA3cQBEP" type="github"><diagram id="hf2BiM7Gc7Ifb06-Hi-3">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-28T03:58:37.259Z" agent="5.0 (X11)" etag="5_OLGzPvJVRGKxPKLxJh" version="14.6.13" type="github">
+  <diagram id="hf2BiM7Gc7Ifb06-Hi-3" name="Page-1">
+    <mxGraphModel dx="1350" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="so6KG3P4DmTSlX6MIdAx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="so6KG3P4DmTSlX6MIdAx-1" target="so6KG3P4DmTSlX6MIdAx-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="so6KG3P4DmTSlX6MIdAx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="so6KG3P4DmTSlX6MIdAx-1" target="so6KG3P4DmTSlX6MIdAx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="so6KG3P4DmTSlX6MIdAx-1" value="&lt;div&gt;车辆在车位前&lt;/div&gt;&lt;div&gt;等待进入&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="so6KG3P4DmTSlX6MIdAx-2" value="数码管显示值减一" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="so6KG3P4DmTSlX6MIdAx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="so6KG3P4DmTSlX6MIdAx-3" target="so6KG3P4DmTSlX6MIdAx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="so6KG3P4DmTSlX6MIdAx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="so6KG3P4DmTSlX6MIdAx-3" target="so6KG3P4DmTSlX6MIdAx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="so6KG3P4DmTSlX6MIdAx-3" value="车位停在停车位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="so6KG3P4DmTSlX6MIdAx-4" value="数码管显示值不变" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="so6KG3P4DmTSlX6MIdAx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="so6KG3P4DmTSlX6MIdAx-5" target="so6KG3P4DmTSlX6MIdAx-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="so6KG3P4DmTSlX6MIdAx-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="so6KG3P4DmTSlX6MIdAx-5" target="so6KG3P4DmTSlX6MIdAx-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="so6KG3P4DmTSlX6MIdAx-5" value="&lt;div&gt;车辆离开停车位&lt;/div&gt;&lt;div&gt;经过前传感器&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="so6KG3P4DmTSlX6MIdAx-6" value="数码管显示值减一" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="so6KG3P4DmTSlX6MIdAx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="so6KG3P4DmTSlX6MIdAx-7" target="so6KG3P4DmTSlX6MIdAx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="so6KG3P4DmTSlX6MIdAx-7" value="测试开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="so6KG3P4DmTSlX6MIdAx-14" value="&lt;div&gt;数码管显示&lt;/div&gt;&lt;div&gt;结果错误&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
